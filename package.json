@@ -1,0 +1,14 @@
+{
+  "name": "op-productions-site",
+  "version": "1.0.0",
+  "description": "OP Productions static website served as a Node.js app for Hostinger.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
