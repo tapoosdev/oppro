@@ -5,9 +5,9 @@ This folder is ready for Hostinger **Deploy Your Node.js Web App**.
 ## Settings
 
 - Framework: `Express.js`
-- Entry file: `app.js`
+- Entry file: `index.js`
 - Start command: `npm start`
-- Node version: `18` or newer
+- Node version: `20.x`
 - Port: `3000` or Hostinger's assigned `PORT` environment variable
 
 ## Upload Or Git Import
@@ -16,6 +16,7 @@ Upload/import the whole folder, including:
 
 - `package.json`
 - `package-lock.json`
+- `index.js`
 - `app.js`
 - `server.js`
 - `index.html`
